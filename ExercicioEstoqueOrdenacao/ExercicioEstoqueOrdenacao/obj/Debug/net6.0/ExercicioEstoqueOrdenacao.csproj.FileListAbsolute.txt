@@ -1,0 +1,15 @@
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\bin\Debug\net6.0\ExercicioEstoqueOrdenacao.exe
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\bin\Debug\net6.0\ExercicioEstoqueOrdenacao.deps.json
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\bin\Debug\net6.0\ExercicioEstoqueOrdenacao.runtimeconfig.json
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\bin\Debug\net6.0\ExercicioEstoqueOrdenacao.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\bin\Debug\net6.0\ExercicioEstoqueOrdenacao.pdb
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\obj\Debug\net6.0\ExercicioEstoqueOrdenacao.csproj.AssemblyReference.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\obj\Debug\net6.0\ExercicioEstoqueOrdenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\obj\Debug\net6.0\ExercicioEstoqueOrdenacao.AssemblyInfoInputs.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\obj\Debug\net6.0\ExercicioEstoqueOrdenacao.AssemblyInfo.cs
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\obj\Debug\net6.0\ExercicioEstoqueOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\obj\Debug\net6.0\ExercicioEstoqueOrdenacao.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\obj\Debug\net6.0\refint\ExercicioEstoqueOrdenacao.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\obj\Debug\net6.0\ExercicioEstoqueOrdenacao.pdb
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\obj\Debug\net6.0\ExercicioEstoqueOrdenacao.genruntimeconfig.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExercicioEstoqueOrdenacao\ExercicioEstoqueOrdenacao\obj\Debug\net6.0\ref\ExercicioEstoqueOrdenacao.dll
