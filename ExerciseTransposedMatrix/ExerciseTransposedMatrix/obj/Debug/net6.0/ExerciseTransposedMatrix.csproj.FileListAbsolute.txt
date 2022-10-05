@@ -1,0 +1,15 @@
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\bin\Debug\net6.0\ExerciseTransposedMatrix.exe
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\bin\Debug\net6.0\ExerciseTransposedMatrix.deps.json
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\bin\Debug\net6.0\ExerciseTransposedMatrix.runtimeconfig.json
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\bin\Debug\net6.0\ExerciseTransposedMatrix.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\bin\Debug\net6.0\ExerciseTransposedMatrix.pdb
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\obj\Debug\net6.0\ExerciseTransposedMatrix.csproj.AssemblyReference.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\obj\Debug\net6.0\ExerciseTransposedMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\obj\Debug\net6.0\ExerciseTransposedMatrix.AssemblyInfoInputs.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\obj\Debug\net6.0\ExerciseTransposedMatrix.AssemblyInfo.cs
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\obj\Debug\net6.0\ExerciseTransposedMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\obj\Debug\net6.0\ExerciseTransposedMatrix.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\obj\Debug\net6.0\refint\ExerciseTransposedMatrix.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\obj\Debug\net6.0\ExerciseTransposedMatrix.pdb
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\obj\Debug\net6.0\ExerciseTransposedMatrix.genruntimeconfig.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseTransposedMatrix\ExerciseTransposedMatrix\obj\Debug\net6.0\ref\ExerciseTransposedMatrix.dll

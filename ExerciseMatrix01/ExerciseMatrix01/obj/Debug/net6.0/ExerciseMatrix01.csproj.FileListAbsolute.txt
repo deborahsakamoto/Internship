@@ -1,0 +1,15 @@
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\bin\Debug\net6.0\ExerciseMatrix01.exe
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\bin\Debug\net6.0\ExerciseMatrix01.deps.json
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\bin\Debug\net6.0\ExerciseMatrix01.runtimeconfig.json
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\bin\Debug\net6.0\ExerciseMatrix01.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\bin\Debug\net6.0\ExerciseMatrix01.pdb
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\obj\Debug\net6.0\ExerciseMatrix01.csproj.AssemblyReference.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\obj\Debug\net6.0\ExerciseMatrix01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\obj\Debug\net6.0\ExerciseMatrix01.AssemblyInfoInputs.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\obj\Debug\net6.0\ExerciseMatrix01.AssemblyInfo.cs
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\obj\Debug\net6.0\ExerciseMatrix01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\obj\Debug\net6.0\ExerciseMatrix01.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\obj\Debug\net6.0\refint\ExerciseMatrix01.dll
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\obj\Debug\net6.0\ExerciseMatrix01.pdb
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\obj\Debug\net6.0\ExerciseMatrix01.genruntimeconfig.cache
+C:\Users\Administrator\VisualStudio\CodigoFonte\ExerciseMatrix01\ExerciseMatrix01\obj\Debug\net6.0\ref\ExerciseMatrix01.dll
