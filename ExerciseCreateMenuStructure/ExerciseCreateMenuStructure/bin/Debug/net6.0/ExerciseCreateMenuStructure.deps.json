@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExerciseCreateMenuStructure/1.0.0": {
+        "runtime": {
+          "ExerciseCreateMenuStructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciseCreateMenuStructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
